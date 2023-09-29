@@ -53,7 +53,3 @@ func (s *YourService) Stop(ctx context.Context) error {
 ```
 
 Leverage Gorch to simplify and standardize your service management and to bring reliability to your Go applications.
-
-## Contributing
-
-Contributions to message-handler are welcome! Please submit a pull request or open an issue if you have suggestions for improvements or have found a bug.
